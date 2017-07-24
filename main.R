@@ -21,8 +21,7 @@ set.seed(2) # for reproducibility
 source("extra.R")
 
 # Include Google API key, if necessary
-# fix(mapdist) # PWGAIzaSyBdjwwvJmdYAXzlLWG8klC-DVXCQHeIvtg & make sure
-register_google(key = "AIzaSyBdjwwvJmdYAXzlLWG8klC-DVXCQHeIvtg")
+register_google(key = "BLANK")
 
 ##############################
 # STEP 2: Determine sample size & allocation
